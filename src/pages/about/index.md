@@ -4,7 +4,7 @@ title: About Me
 ---
 ### Me gusta ver Friends
 
-He visto demasiadas veces Friends
+He visto demasiadas veces Friends e.e
 
 ### Papas Fritas
 
